@@ -1,0 +1,6 @@
+db name=csharpp
+table name=personaldetails
+           nic-varchar
+           name-varchar
+           email-varchar
+           contact-varchar

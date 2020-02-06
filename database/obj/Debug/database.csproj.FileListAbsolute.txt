@@ -1,0 +1,17 @@
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\database.exe.config
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\database.exe
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\database.pdb
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.csprojAssemblyReference.cache
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.Form1.resources
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.csproj.GenerateResource.cache
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.csproj.CopyComplete
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.exe
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\obj\Debug\database.pdb
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\MySql.Data.dll
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\Renci.SshNet.dll
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\Google.Protobuf.dll
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\IcCoBoDeCrAnE\Desktop\hod\database\database\bin\Debug\MySql.Data.xml
